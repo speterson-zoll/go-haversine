@@ -3,7 +3,7 @@ package haversine_test
 import (
 	"testing"
 
-	haversine "github.com/speterson-zoll/go-haversine"
+	haversine "github.com/paultag/go-haversine"
 )
 
 var testsCases = []struct {
